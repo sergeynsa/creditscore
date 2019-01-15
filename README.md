@@ -1,7 +1,7 @@
 Local business scoring for investment decisions
 ---------------
 
-This repository contains the jupyter notebook python code:
+This repository contains the jupyter notebook python code
 
 
 Motivation
